@@ -1,7 +1,7 @@
 # DISCORD.js y SQLITE
 SQLITE es un lenguaje estándar para almacenar, manipular y recuperar datos en bases de datos.
 
-Estos ejemplos SQL le enseñará cómo usar SQL con [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome) para crear funciones de registros y consultas para su bot/app.
+Estos ejemplos SQL le enseñará cómo usar SQLITE con [DISCORD.js](https://discord.js.org/#/docs/main/stable/general/welcome) para crear funciones de registros y consultas para su bot/app.
 
 
 #### SERVIDOR SOPORTE DISCORD
